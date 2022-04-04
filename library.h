@@ -76,6 +76,8 @@ public:
      * @param index The index to remove
      */
     void RemoveAt(uint index);
+
+		//TODO: ADD BOTH FREE VERSION OF THE REMOVES FUNCTIONS
 };
 
 #endif //ARRAYLIST_LIBRARY_H
